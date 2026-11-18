@@ -1,0 +1,10 @@
+2024-01-15 06:12:03 INFO Machine started OK
+2024-01-15 06:45:11 WARNING Tool wear approaching limit
+2024-01-15 07:02:44 ERROR Deviation: dimension out of tolerance
+2024-01-15 07:30:00 INFO Shift handover complete
+2024-01-15 08:15:22 ERROR Deviation: surface defect detected
+2024-01-15 09:00:10 WARNING Temperature above threshold
+2024-01-15 09:44:55 ERROR Machine stopped - emergency halt
+2024-01-15 10:05:33 INFO Machine restarted after inspection
+2024-01-15 11:20:17 ERROR Deviation: tool position error
+2024-01-15 12:00:00 INFO Daily target reached
